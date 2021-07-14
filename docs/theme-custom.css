@@ -1,0 +1,14 @@
+:root {
+    --base-font-family: "Raleway", sans-serif;
+    --sidebar-toggle-background: #0F38E2;
+    --sidebar-toggle-icon-color: white;
+    --zoomimage-overlay-background: rgba(255, 255, 255, 0.9);
+    --sidebar-background: #EBEEFD;
+    --sidebar-border-color: #AFBDF5;
+    --heading-h1-color: #0F38E2;
+  }
+
+::selection {
+    color: white;
+    background: #3455FF;
+}

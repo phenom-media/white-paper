@@ -1,5 +1,6 @@
+(/ "Phenom White paper")
 * **Введение**
-* [Вступление](/intro.md "Phenom White paper")
+* [Вступление](/intro.md)
 * [История проекта](/history.md)
 * [Концепция экосистемы](/concept.md)
 * **Экосистема Phenom**

@@ -1,4 +1,4 @@
-(/ "Phenom White paper")
+* (/ "Phenom White paper")
 * **Введение**
 * [Вступление](/intro.md)
 * [История проекта](/history.md)

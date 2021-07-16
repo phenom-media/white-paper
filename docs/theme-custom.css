@@ -6,6 +6,10 @@
     --sidebar-background: #EBEEFD;
     --sidebar-border-color: #AFBDF5;
     --heading-h1-color: #0F38E2;
+    --link-color: #2349E4;
+    --link-color--hover: #0A2597;
+    --link-text-decoration: none;
+
   }
 
 ::selection {

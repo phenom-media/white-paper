@@ -1,8 +1,8 @@
 * **Введение**
 * [Вступление](/intro.md)
 * [История проекта](/history.md)
-* [Концепция экосистемы](/concept.md)
 * **Экосистема Phenom**
+* [Концепция экосистемы](/concept.md)
 * [Phenom Network](/network.md)
 * [Phenom Chain](/chain.md)
 * [Phenom Token](/pnt.md)

@@ -9,7 +9,6 @@
 * [Phenom Token](/pnt.md)
 * [Phenom App](/app.md)
 * [Phenom League](/league.md)
-* [Phenom Metaverse](/metaverse.md)
 * [Продукты второй очереди](/second.md)
 * [Продукты третьей очереди](/third.md)
 * **Roadmap**

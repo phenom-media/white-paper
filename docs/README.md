@@ -1,4 +1,4 @@
-# Phenom White Paper v1.0 <!-- {docsify-ignore} -->
+# White Paper v1.0 <!-- {docsify-ignore} -->
 
 # Введение :id=intro
 

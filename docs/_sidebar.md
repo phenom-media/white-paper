@@ -6,7 +6,7 @@
 * [Экосистема](#eco)
 * [Phenom Network](#network)
 * [Phenom Chain](#chain)
-* [Phenom Token](#pnt)
+* [Phenom Token](#token)
 * [Phenom App](#app)
 * [Phenom League](#league)
 * **Roadmap**

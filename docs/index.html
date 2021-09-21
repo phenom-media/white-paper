@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
   <title>Phenom White Paper v1.0</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="White Paper экосистемы Phenom v0.2">
+  <meta name="description" lang="ru" content="White Paper экосистемы Phenom v1.0">
+  <meta name="description" lang="en" content="Phenom Ecosystem White Paper v1.0">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,9 +21,17 @@
     window.$docsify = {
       name: 'Phenom White Paper',
       repo: '',
-      notFoundPage: true,
+      notFoundPage: {
+        '/': '_404.md',
+        '/en-en/': 'en-en/_404.md',
+      },
+      alias: {
+        
+      },
       auto2top: true,
       themeColor: '#0F38E2',
+      loadNavbar: true,
+      mergeNavbar: true,
       loadSidebar: true,
       autoHeader: true,
       maxLevel: 2,
